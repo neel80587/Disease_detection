@@ -1,0 +1,10 @@
+numpy>=2.0
+pandas
+scikit-learn==1.8.0
+joblib
+scipy
+scikit-image
+pillow
+torch
+timm
+streamlit

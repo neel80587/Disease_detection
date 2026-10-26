@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+kaggle.json
+*.zip
+ham10000/
+isic/

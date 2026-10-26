@@ -1,0 +1,24 @@
+{
+ "image only": {
+  "auc": 0.909,
+  "auc_ci95": [
+   0.894,
+   0.927
+  ],
+  "ap": 0.742,
+  "sens_at_val_thr": 0.875,
+  "spec_at_val_thr": 0.786,
+  "val_auc": 0.934
+ },
+ "image+metadata": {
+  "auc": 0.912,
+  "auc_ci95": [
+   0.895,
+   0.93
+  ],
+  "ap": 0.716,
+  "sens_at_val_thr": 0.863,
+  "spec_at_val_thr": 0.813,
+  "val_auc": 0.93
+ }
+}
